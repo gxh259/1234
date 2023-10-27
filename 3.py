@@ -1,6 +1,6 @@
 import pygame
 import random
-
+#12345678
 # 初始化游戏
 pygame.init()
 
